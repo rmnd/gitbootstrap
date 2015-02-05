@@ -51,6 +51,7 @@
     b = branch
     c = commit
     cm = commit -m
+    cma = commit --amend -m
     d = diff
     dc = diff --cached
     f = fetch
